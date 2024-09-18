@@ -17,3 +17,10 @@ Proyek ini adalah sebuah dashboard yang dibangun menggunakan **Streamlit** untuk
 
 ## Dataset
 Dataset yang digunakan dalam proyek ini berasal dari **Bike Sharing Dataset**, yang mencakup informasi harian dan per jam tentang penyewaan sepeda, data cuaca, dan variabel terkait lainnya.
+
+## Menjalankan app Streamlit (Pada local)
+Pada terminal tuliskan:
+```
+streamlit run dashboard.py
+```
+Pastikan semua **requirements** sudah di install
